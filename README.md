@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm Audhril Dwi Van
 
 🎓 Informatics Student at **Universitas Gunadarma**  
-💻 Interested in Software Development and Web Development.
+💻 Interested in Software Development, Web Development and Cyber Security.
 
 ## 🚀 About Me
 
