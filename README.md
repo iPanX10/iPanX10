@@ -1,46 +1,112 @@
-# 👋 Hello World! I'm Audhril Dwi Van
 
-🎓 Informatics Student at **Universitas Gunadarma**  
-💻 Interested in Software Development, Web Development and Cyber Security.
+<div align="center">
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1B2623&height=180&section=header&text=Van's&fontSize=55&fontColor=E8E2D6&fontAlignY=45&desc=INFORMATICS%20STUDENT%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=12&descAlignY=70&descColor=C6B8A5" width="100%" />
 
-- 🌱 Currently learning and improving my programming skills.
-- 🛠️ Building projects using Laravel, Python, Go, and Javascript.
-- 🛒 Developing **CORE**, an e-commerce project for computer hardware.
-- 🤝 Interested in collaborating on software development projects.
+<br/>
 
-## 🧰 Tech Stack
+*静かに学び、着実に創る。*  
+*Learn quietly, build consistently.*
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
 
-## 📌 Featured Project
+[About Me](#-about-me) · [Tech Stack](#-tech-stack) · [Projects](#-featured-projects) · [Connect](#-connect)
 
-### 🖥️ CORE — Computer Hardware E-Commerce
-
-An e-commerce web application for computer hardware products such as RAM, CPUs, GPUs, and motherboards.
-
-**Tech:** Laravel, Blade, Bootstrap 5, MySQL, Filament.
-
-🔗 [View Repository](https://github.com/iPanX10/Core)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iPanX10&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPanX10&layout=compact&theme=tokyonight&hide_border=true)
-
-## 📫 Connect With Me
-
-- 📸 Instagram: [@dwi_van](https://instagram.com/dwi_van)
-- 💻 GitHub: [@iPanX10](https://github.com/iPanX10)
+</div>
 
 ---
 
-*Keep learning, keep building, and keep improving.* 🚀
+##  About Me
+
+Hello! I'm **Audhril Dwi Van**, an Informatics student at **Gunadarma University**, Indonesia.
+
+I'm interested in software development, backend engineering, and collaborative development. I enjoy learning new technologies and applying them to practical projects.
+
+- 🎓 Informatics student at Gunadarma University
+- 💻 Interested in backend development and software engineering
+- 🛠️ Currently developing **CORE**, an e-commerce application for computer hardware
+- 🤝 Participating in collaborative software development through **AI Study**
+- 🌱 Always learning, experimenting, and improving my development workflow
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,go,js" alt="Programming languages" />
+</p>
+
+### Frameworks & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,flask,django,fastapi,nestjs,html,css,bootstrap,mysql,git,github,vscode" alt="Frameworks and tools" />
+</p>
+
+---
+
+## Featured Projects
+
+### 01 — CORE
+
+**Computer Hardware E-commerce**
+
+A web application for selling computer hardware, including RAM, CPUs, graphics cards, and motherboards.
+
+- Product catalog and category filtering
+- Shopping cart and checkout workflow
+- Pickup and delivery options
+- Simulated payment methods
+- Order management and administration
+
+**Technologies:** Laravel · PHP · Blade · Bootstrap 5 · MySQL · Filament
+
+> A practical project focused on implementing e-commerce workflows and application features.
+
+### 02 — AI Study
+
+**Collaborative AI Project**
+
+A collaborative development project related to artificial intelligence, with an emphasis on working through Git and GitHub.
+
+- Collaborative development workflow
+- Branch-based development and pull requests
+- Version control and code collaboration
+
+> Project details and technologies can be expanded as development progresses.
+
+---
+
+## Development Philosophy
+
+<div align="center">
+
+> 継続は力なり  
+> *Consistency is strength.*
+
+I believe good software is built through continuous learning, thoughtful implementation, clear documentation, and collaboration.
+
+</div>
+
+---
+
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/iPanX10">
+  <img src="https://img.shields.io/badge/GitHub-1B2623?style=for-the-badge&logo=github&logoColor=E8E2D6" alt="GitHub" />
+</a>
+<a href="https://www.instagram.com/dwi_van/">
+  <img src="https://img.shields.io/badge/Instagram-B76E79?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<br/><br/>
+
+<sub>静かな努力、確かな成長。</sub>
+
+<sub>Quiet effort. Steady growth.</sub>
+
+</div>
